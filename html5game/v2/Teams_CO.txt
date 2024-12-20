@@ -1,25 +1,25 @@
 uid	name	tla	conference	division	active	starting	colhelmet	colshirt	colpants	coltertiary	defense	offense	wins	losses	ties	roof	rainfall	snowfall	helmet	rival	academics	type	state	reputation
-32	Boston C.	B.C	14	0	1	0	$ffd700	$cc0000	$ffd700	$ffffff	3	1	0	0	0	0	40	89	0	33	1	0	MA	y:1:0000
+32	Boston College	B.C	14	0	1	0	$ffd700	$cc0000	$ffd700	$ffffff	3	1	0	0	0	0	40	89	0	33	1	0	MA	y:1:0000
 33	Clemson	CLM	14	0	1	0	$ffa800	$ffa800	$ffffff	$ffffff	7	7	0	0	0	0	44	2	0	148	0	0	SC	y:1:1110
 34	Durham	DUR	14	0	1	0	$6666ff	$6666ff	$6666ff	$ffffff	6	7	0	0	0	0	44	2	0	40	2	0	NC	y:1:0000
-35	Florida S.	FLS	14	0	1	0	$ffd700	$990000	$ffd700	$ceb888	7	8	0	0	0	0	50	0	0	38	0	0	FL	y:1:0000
-36	Georgia T.	GAT	14	0	1	0	$ffd700	$ffd700	$ffffff	$000000	4	1	0	0	0	0	51	1	0	142	1	0	GA	y:1:0000
+35	Florida State	FLS	14	0	1	0	$ffd700	$990000	$ffd700	$ceb888	7	8	0	0	0	0	50	0	0	38	0	0	FL	y:1:0000
+36	Georgia Tech	GAT	14	0	1	0	$ffd700	$ffd700	$ffffff	$000000	4	1	0	0	0	0	51	1	0	142	1	0	GA	y:1:0000
 37	Louisville	LOU	14	0	1	0	$ffffff	$999900	$ffffff	$ffffff	8	4	0	0	0	0	0	0	0	143	0	0	KY	y:1:0000
 38	Miami F.	MIF	14	0	1	0	$ffffff	$ffa800	$ffffff	$005030	5	3	0	0	0	0	59	0	0	35	0	0	FL	y:1:0000
-39	N.C. S.	NCS	14	0	1	0	$ffffff	$660000	$ffffff	$000000	8	3	0	0	0	0	44	2	0	40	0	0	NC	y:1:0000
+39	N.C. State	NCS	14	0	1	0	$ffffff	$660000	$ffffff	$000000	8	3	0	0	0	0	44	2	0	40	0	0	NC	y:1:0000
 40	N. Carolina	N.C	14	0	1	0	$0099cc	$0099cc	$0099cc	$ffffff	3	7	0	0	0	0	44	2	0	34	0	0	NC	y:1:0000
 41	Pittsburgh	PIT	14	0	1	0	$ffff00	$990099	$ffff00	$003594	7	6	0	0	0	0	38	27	0	77	1	0	PA	y:1:0000
 42	Syracuse	SYR	14	0	1	0	$ff0000	$000099	$ff0000	$000000	6	5	0	0	0	2	40	65	0	-1	0	0	NY	y:1:0000
 43	Virginia	VA.	14	0	1	0	$ffffff	$000099	$ffffff	$f84c1e	6	1	0	0	0	0	43	1	0	44	1	0	VA	y:1:0000
-44	Virginia T.	VAT	14	0	1	0	$cc0000	$cc0000	$ffffff	$cf4420	5	2	0	0	0	0	38	1	0	43	0	0	VA	y:1:0000
-45	Winston S.	W.S	14	0	1	0	$ffd700	$000000	$ffd700	$ffffff	4	8	0	0	0	0	44	1	0	40	1	0	NC	y:1:0000
+44	Virginia Tech	VAT	14	0	1	0	$cc0000	$cc0000	$ffffff	$cf4420	5	2	0	0	0	0	38	1	0	43	0	0	VA	y:1:0000
+45	Winston State	W.S	14	0	1	0	$ffd700	$000000	$ffd700	$ffffff	4	8	0	0	0	0	44	1	0	40	1	0	NC	y:1:0000
 46	Cincinnati	CIN	4	0	1	0	$000000	$000000	$000000	$ffffff	7	5	0	0	0	0	42	14	0	109	0	0	OH	y:1:0001
 47	E. Carolina	E.C	3	0	1	0	$000099	$000099	$ffff00	$fdc82f	4	7	0	0	0	0	50	0	0	-1	0	0	NC	y:1:0000
 48	Houston	HOU	4	0	1	0	$ffffff	$800000	$ffffff	$ffffff	3	8	0	0	0	0	51	0	0	89	0	0	TX	y:1:0000
 49	Memphis	MEM	3	0	1	0	$0000d0	$0000d0	$0000d0	$ffffff	5	8	0	0	0	0	46	1	0	-1	0	0	TN	y:1:0000
 50	Annapolis	ANN	3	0	1	0	$ffd799	$0000cc	$ffd799	$ffffff	6	2	0	0	0	0	43	13	0	96	2	Military	MD	y:1:0000
 51	Southern M.	SOM	3	0	1	0	$ffffff	$800000	$ffffff	$0033a0	2	8	0	0	0	0	31	1	0	63	0	Religious	TX	y:1:0000
-52	S. Florida	SFL	3	0	1	0	$ffff00	$009900	$009900	$ffffff	1	5	0	0	0	0	50	0	0	56	0	0	FL	y:1:0000
+52	South Florida	SFL	3	0	1	0	$ffff00	$009900	$009900	$ffffff	1	5	0	0	0	0	50	0	0	56	0	0	FL	y:1:0000
 53	Philadelphia	PHI	3	0	1	0	$ffffff	$cc0000	$ffffff	$ffffff	4	2	0	0	0	0	47	15	0	-1	1	0	PA	y:1:0000
 54	New Orleans	N.O	3	0	1	0	$00ccff	$00cc00	$00ccff	$418fde	6	8	0	0	0	0	50	0	0	144	2	0	LA	y:1:0000
 55	Tulsa	TUL	3	0	1	0	$ffff00	$0000ff	$0000ff	$c8102e	2	6	0	0	0	0	35	1	0	-1	0	Religious	OK	y:1:0000
@@ -43,8 +43,8 @@ uid	name	tla	conference	division	active	starting	colhelmet	colshirt	colpants	col
 73	Minnesota	MN.	5	0	1	0	$cc0000	$cc0000	$ffa800	$ffcc33	8	5	0	0	0	0	50	50	0	80	1	0	MN	y:1:0000
 74	Nebraska	NE.	5	0	1	0	$ffffff	$800000	$ffffff	$e41c38	5	4	0	0	0	0	32	30	0	-1	0	0	NE	y:1:0000
 75	Evanston	EVA	5	0	1	0	$0066cc	$0066cc	$0066cc	$ffffff	4	1	0	0	0	0	38	35	0	67	3	0	IL	y:1:0000
-76	Ohio S.	OHS	5	1	1	0	$666666	$ff0033	$666666	$bb0000	7	10	0	0	0	0	40	20	0	71	0	0	OH	y:1:1111
-77	Pennsylv. S.	PAS	5	1	1	0	$ffffff	$0000cc	$ffffff	$041e42	8	8	0	0	0	0	45	45	2	41	1	0	PA	y:1:0100
+76	Ohio State	OHS	5	1	1	0	$666666	$ff0033	$666666	$bb0000	7	10	0	0	0	0	40	20	0	71	0	0	OH	y:1:1111
+77	Penn State	PAS	5	1	1	0	$ffffff	$0000cc	$ffffff	$041e42	8	8	0	0	0	0	45	45	2	41	1	0	PA	y:1:0100
 78	Indiana P.	INP	5	0	1	0	$ffa800	$333333	$ffa800	$ffcc99	4	4	0	0	0	0	38	31	0	68	0	0	IN	y:1:0000
 79	New Jersey	N.J	5	1	1	0	$800000	$800000	$800000	$ffffff	4	1	0	0	0	0	47	25	0	-1	0	0	NJ	y:1:0000
 80	Wisconsin	WI.	5	0	1	0	$ffffff	$800000	$ffffff	$c5050c	7	4	0	0	0	0	33	48	0	73	1	0	WI	y:1:0000
@@ -118,7 +118,7 @@ uid	name	tla	conference	division	active	starting	colhelmet	colshirt	colpants	col
 148	S. Carolina	S.C	11	0	1	0	$ffffff	$e00000	$ffffff	$000000	6	6	0	0	0	0	28	5	0	33	0	0	SC	y:1:0000
 149	Tennessee	TN.	11	0	1	0	$ffffff	$ff0000	$ffffff	$ff8200	6	10	0	0	0	0	43	3	0	151	0	0	TN	y:1:0000
 150	Texas A.	TXA	11	1	1	0	$c00000	$c00000	$ffffff	$ffffff	7	3	0	0	0	0	41	0	0	64	0	0	TX	y:1:0010
-151	Nashville	NSH	11	0	1	0	$ffd700	$000000	$ffd700	$000000	1	3	0	0	0	0	45	2	0	149	2	0	TN	y:1:0000
+151	Vanderbilt	NSH	11	0	1	0	$ffd700	$000000	$ffd700	$000000	1	3	0	0	0	0	45	2	0	149	2	0	TN	y:1:0000
 152	Appalachian	APP	12	0	1	0	$000000	$000000	$000000	$ffcc00	5	7	0	0	0	0	40	25	0	155	0	0	NC	y:1:0000
 153	Arkansas S.	ARS	12	1	1	0	$600000	$600000	$600000	$cc092f	3	4	0	0	0	0	40	10	0	-1	0	0	AR	y:1:0000
 154	C. Carolina	CCO	12	0	1	0	$000000	$00cc99	$00cc99	$006f41	3	5	0	0	0	0	27	1	0	-1	0	0	SC	y:1:0000
@@ -127,7 +127,7 @@ uid	name	tla	conference	division	active	starting	colhelmet	colshirt	colpants	col
 157	Louisiana	LA.	12	1	1	0	$800000	$800000	$800000	$ffffff	6	4	0	0	0	0	54	0	0	158	0	0	LA	y:1:0000
 158	Louisiana M.	LAM	12	1	1	0	$ffffff	$600050	$ffffff	$800029	2	3	0	0	0	0	44	0	0	157	0	0	LA	y:1:0000
 159	S. Alabama	SAL	12	1	1	0	$666699	$666699	$666699	$bf0d3e	7	6	0	0	0	0	54	0	0	161	0	0	AL	y:1:0000
-160	Texas S.	TXS	12	1	1	0	$ffd799	$e00000	$ffd799	$8d734a	5	2	0	0	0	0	39	1	0	93	0	0	TX	y:1:0000
+160	Texas State	TXS	12	1	1	0	$ffd799	$e00000	$ffd799	$8d734a	5	2	0	0	0	0	39	1	0	93	0	0	TX	y:1:0000
 161	Troy	TRO	12	1	1	0	$606060	$f00000	$f00000	$8a2432	8	4	0	0	0	0	39	1	0	159	0	0	AL	y:1:0000
 162	Harrisonb'g	HBG	12	0	1	0	$0000d0	$000000	$0000d0	$f6ead0	6	7	0	0	0	0	21	1	0	-1	0	0	VA	y:1:0000
 163	Clarksville	CVL	37	0	1	0	$666666	$ffa800	$ffffff	$999999	7	7	0	0	0	0	23	0	0	-1	0	0	TN	y:1:0000
@@ -174,7 +174,7 @@ uid	name	tla	conference	division	active	starting	colhelmet	colshirt	colpants	col
 204	Pennsylvania	PA.	24	0	1	0	$000099	$000099	$ffffff	$c00000	9	5	0	0	0	0	28	0	0	205	3	Ivy	PA	y:1:0000
 205	N. Jersey P.	NJP	24	0	1	0	$ffff00	$000000	$000000	$ffd800	10	6	0	0	0	0	29	0	0	204	3	Ivy	NJ	y:1:0000
 206	New Haven	NHV	24	0	1	0	$ffffff	$000066	$ffffff	$000066	9	7	0	0	0	0	32	0	0	203	3	Ivy	CT	y:1:0000
-207	Delaware S.	DES	25	0	1	0	$ffffff	$ff3366	$ffffff	$ffffff	6	2	0	0	0	0	29	0	0	188	0	HBU	DE	y:1:0000
+207	Delaware State	DES	25	0	1	0	$ffffff	$ff3366	$ffffff	$ffffff	6	2	0	0	0	0	29	0	0	188	0	HBU	DE	y:1:0000
 208	Wash. D.C.	WDC	25	0	1	0	$c0c0c0	$666699	$666699	$666699	5	6	0	0	0	0	26	0	0	190	1	HBU	DC	y:1:0000
 209	Balti. M.S.	BMS	25	0	1	0	$000099	$ffa800	$ffffff	$ffa800	5	3	0	0	0	0	27	0	0	196	0	HBU	MD	y:1:0000
 210	Norfolk S.	NFS	25	0	1	0	$336633	$336633	$336633	$ffff00	1	2	0	0	0	0	29	1	0	190	0	HBU	VA	y:1:0000
