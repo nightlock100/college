@@ -139,7 +139,7 @@
               if (localStorage.getItem("RetroBowlCollege.0.savedata.ini")) {
                 let z = prompt("how many credits do you have right now (please input correct number)")
                 let x = localStorage.getItem("RetroBowlCollege.0.savedata.ini")
-                let y = x.replace(`coach_credit="${z}"`, 'coach_credit="900"')
+                let y = x.replace(`coach_credit="${z}"`, 'coach_credit="9999"')
                 localStorage.setItem("RetroBowlCollege.0.savedata.ini", y)
                 window.location = window.location
               } else {
