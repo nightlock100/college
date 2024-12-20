@@ -283,7 +283,7 @@
                     }, 0);
                 });
               }),
-              (this.displayAd = function (e, t, r, a) {
+              (this.displayA = function (e, t, r, a) {
                 var s = (0, c.Z)();
                 o.Z.track(i.Z.tracking.screen.displayAd, { size: t, opportunityId: s, duringGameplay: n.duringGameplay });
                 var d = {
@@ -301,7 +301,7 @@
               (this.isAdBlocked = function () {
                 return !1;
               }),
-              (this.muteAd = function () {
+              (this.muteA = function () {
                 n.monetization.muteAd();
               }),
               (this.logError = function (e) {
