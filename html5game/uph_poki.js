@@ -34,15 +34,15 @@ function poki_happy_time(magnitude) {
 function poki_commercial_break_raw(fn) {
     if (PokiSDK) {
         PokiSDK.commercialBreak().then(function() { fn(true); });
-    } else setTimeout(function() { fn(false); }, 0);
+    } else setTimeou(function() { fn(false); }, 0);
 }
 
 ///~
 function poki_rewarded_break_raw(fn) {
     if (PokiSDK) {
         PokiSDK.rewardedBreak().then(fn);
-    } else setTimeout(function() { fn(false); }, 0);
-}
+    } else setTimeo(function() { fn(false); }, 0);
+
 
 /// https://yal.cc/gamemaker-html5-loading-bar-extended/
 var inst = { };
@@ -50,7 +50,7 @@ var inst = { };
 function poki_loadbar(ctx, width, height, total, current, image) {
     if (window.PokiSDK) { // if you have your own loadbar, just copy this block in there
         if (window.PokiSDK_loadState == 0) {
-            window.PokiSDK_isLoading = 1;
+            window.PokiSDK_isLoading = 0;
             PokiSDK.gameLoadingStart();
         }
         PokiSDK.gameLoadingProgress({ percentageDone: current/total });
